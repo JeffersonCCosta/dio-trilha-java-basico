@@ -1,6 +1,6 @@
 # DIO - Trilha Java Básico
 
-## Sintaxe - Desafio
+## Sintaxe - Desafio ( está na pasta conta-banco)
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
